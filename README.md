@@ -1,6 +1,6 @@
 # OBSOLETE - Please do not use this.
 
-This was written in 2012 as a drop-in replacement for a Flash menu system. It follows exactly zero best practices and is unusable on mobile devices. Now that responsive design is a thing, this menu is entirely obsolete and should never be used for anything. I recommend Samson Onna's [https://github.com/samsono/Ace-Responsive-Menu](Ace Responsive Menu) as a replacement, though it is from 2017 and thus is starting to age a bit as well.
+This was written in 2012 as a drop-in replacement for a Flash menu system. It follows exactly zero best practices and is unusable on mobile devices. Now that responsive design is a thing, this menu is entirely obsolete and should never be used for anything. I recommend Samson Onna's [Ace Responsive Menu](https://github.com/samsono/Ace-Responsive-Menu) as a replacement, though it is from 2017 and thus is starting to age a bit as well.
 
 TortoiseMenu was originally available under GPL 3.0. It is now available under the compatible Unlicense.
 

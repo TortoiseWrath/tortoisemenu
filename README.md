@@ -13,7 +13,7 @@ TortoiseMenu is a top navigation bar for web pages offering up to three levels o
 Include tortoisemenu.css in the head and tortoisemenu.js at the top of the body of each document:
 
 ```html
-	<head>
+<head>
 	<title>TortoiseMenu</title>
 	<meta charset="UTF-8">
 	<style type="text/css">
